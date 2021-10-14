@@ -1,0 +1,56 @@
+
+body{
+    background-image: url("./img/fondo.jpg");
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+}
+
+nav a{
+background-color: none;
+color:#ffffff;
+font-size: 1.rem;
+text-decoration: none;
+margin-right: 1.4;
+padding-right: 25px;
+ 
+}
+
+h1{
+
+    background-color:none;
+    color:#c7ca1f;
+    font-size: 2.2rem;
+    /*padding: 1.5rem 1.5rem 1.5rem 2rem;*/
+    padding-left: 2rem;
+       
+}
+
+.encabezado{
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-around;
+    padding: 1.5rem 1.5rem 1.5rem 0.6rem;    /*top -rigth - buttom- left */
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    background-size: cover;
+    width: 50vh;
+    height: 50vh;
+}
+
+p{
+    color: #ffffff;
+}
+.nosotros{
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+    padding-left: 40%;
+    padding-top: 3rem;
+    
+}
