@@ -14,10 +14,10 @@ font-size: 1.rem;
 text-decoration: none;
 margin-right: 1.4;
 padding-right: 25px;
-
- 
 }
-
+nav a:hover{
+color:#9fa106
+}
 h1{
 
     background-color:none;
@@ -44,9 +44,7 @@ h1{
     height: 50vh;*/
 }
 
-p{
-    color: #ffffff;
-}
+
 .nosotros{
     display: flex;
     justify-content: center;
@@ -57,4 +55,13 @@ p{
 }
 .titulo{
     margin-top: -13%;
+}
+.subtitulo{
+    background-color:none;
+    color:#ffffff
+}
+
+.texto{
+    
+    color:#ffffff;
 }
