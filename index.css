@@ -103,6 +103,8 @@ border: 1px solid #999999;
 .contenedorcursos{
     display: flex;
     padding: 5px 5px 5px 5px; 
+    font-size: 1.3rem;
+    
     
     
 }
