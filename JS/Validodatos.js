@@ -28,7 +28,7 @@ function validodatos() {
 
     if(nombre.value  !='' && apellido.value != '' && correo.value != '' && telefono.value != '' && comenta.value != ''){
 
-        alert(" Su turno fue Reservado exitosamente   SALUDOS!! ");
+        alert(" Su turno fue Reservado exitosamente   SALUDOS!!   :) :)  ");
     }
 
 }
